@@ -3,7 +3,7 @@
 ############################################################
 
 # Complete page title
-title: ClearStatus systems status page
+title: DevonWebs Network Status
 
 # Language config
 languageCode: en
@@ -21,10 +21,10 @@ params:
   systems:
     - name: Website
       description: Our company public facing website
-      link: https://www.example.com/
+      link: https://devonwebs.co.uk/
     - name: Helpdesk
       description: Our company customer support site
-      link: https://support.example.com/
+      link: https://my.devonwebs.uk/
 
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
